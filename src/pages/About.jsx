@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import Langage from "../asset/Langage.jpg";
-import SkillCard from "../components/SkillCard";
+
 
 const skills = [
   "React","JavaScript","Tailwind CSS", "HTML","CSS","Git","Python", "Java",
